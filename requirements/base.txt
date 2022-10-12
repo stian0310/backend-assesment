@@ -1,0 +1,26 @@
+# Django
+Django==4.1.2
+
+# Django Rest-Framework
+djangorestframework==3.14.0
+
+# Postgres
+psycopg2-binary==2.9.4
+
+# Environment Variables
+django-environ==0.9.0
+
+# Cross-Origin Resource Sharing
+django-cors-headers==3.13.0
+
+# Documentation
+drf-spectacular==0.24.2
+
+# HTTP library
+requests==2.28.1
+
+# PDF
+# weasyprint == 52.5
+
+# Authentication
+# djangorestframework-simplejwt==5.2.1
